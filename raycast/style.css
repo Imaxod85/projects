@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+
+
+}
+canvas {
+  display: flex;
+  position:fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
